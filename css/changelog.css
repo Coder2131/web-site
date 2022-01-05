@@ -1,0 +1,36 @@
+body {
+  display: block;
+
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+
+  height: auto;
+  min-width: 0px;
+  min-height: 0px;
+  max-width: none;
+  max-height: none;
+  overflow: visible;
+  object-fit: fill;
+  left: 50%;
+  top: 50%;
+
+  font-family: Catamaran;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #333;
+  text-align: left;
+  font-style: regular;
+  text-decoration: none;
+  letter-spacing: normal;
+  text-indent: 0px;
+  columns: auto;
+
+  background-color: #020405;
+  background-clip: none;
+
+  border-radius: 0px;
+  border-style: none;
+  border-width: 0px;
+  border-color: black;
+}
